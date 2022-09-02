@@ -166,5 +166,11 @@
     "name" : "MANAUS",
     "latitude" : -3.05008,
     "longitude" : -59.87879
+  },
+  {
+    "key" : "CABO",
+    "name" : "SUAPE",
+    "latitude" : -8.33610,
+    "longitude" : -34.96199
   }
 ]

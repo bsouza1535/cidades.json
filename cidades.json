@@ -1,5 +1,11 @@
 [
  {
+    "key" : "GD",
+    "name" : "GERDAU - MG",
+    "latitude" : -20.54615,
+    "longitude" : -43.74206
+  },
+ {
     "key" : "SB",
     "name" : "SUPERBAC - PR",
     "latitude" : -23.512227968847533,

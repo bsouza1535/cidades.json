@@ -1,19 +1,31 @@
 [
   {
+    "key" : "RB",
+    "name" : "Rio Branco",
+    "latitude" : -9.96393,
+    "longitude" : -67.79364
+  },
+  {
+    "key" : "JB",
+    "name" : "Jaboatão dos Guararapes - JB",
+    "latitude" : -8.14485,
+    "longitude" : -34.99383
+  },
+  {
     "key" : "SE",
-    "name" : "Sergipe",
+    "name" : "Sergipe - SE",
     "latitude" : -10.9091,
     "longitude" : -37.0677
   },
   {
-    "key" : "PA",
-    "name" : "Pará",
-    "latitude" : -1.4554,
-    "longitude" : -48.4898
+    "key" : "BL",
+    "name" : "Belém do Pará - PA",
+    "latitude" : -1.37155,
+    "longitude" : -48.45726
   },
   {
-    "key" : "MG",
-    "name" : "Minas Gerais",
+    "key" : "BL",
+    "name" : "Belo Horizonte - MG",
     "latitude" : -19.9102,
     "longitude" : -43.9266
   },
@@ -25,7 +37,7 @@
   },
   {
     "key" : "DF",
-    "name" : "Distrito Federal",
+    "name" : "Brasília",
     "latitude" : -15.7795,
     "longitude" : -47.9297
   },
@@ -114,8 +126,8 @@
     "longitude" : -63.8999
   },
   {
-    "key" : "PE",
-    "name" : "Pernambuco",
+    "key" : "RE",
+    "name" : "Recife",
     "latitude" : -8.04666,
     "longitude" : -34.8771
   },
@@ -145,7 +157,7 @@
   },
   {
     "key" : "SP",
-    "name" : "São Paulo",
+    "name" : "São Paulo Capital",
     "latitude" : -23.5329,
     "longitude" : -46.6395
   },

@@ -1,5 +1,11 @@
 [
   {
+    "key" : "BJ",
+    "name" : "MOURA BELO JARDIM - PE",
+    "latitude" : -8.32873,
+    "longitude" : -36.43949
+  },
+  {
     "key" : "RB",
     "name" : "Rio Branco",
     "latitude" : -9.96393,

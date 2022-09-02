@@ -1,5 +1,11 @@
 [
   {
+    "key" : "EV",
+    "name" : "Elissa Village - PR",
+    "latitude" : -25.34763,
+    "longitude" : -49.08388
+  },
+  {
     "key" : "BJ",
     "name" : "MOURA BELO JARDIM - PE",
     "latitude" : -8.32873,

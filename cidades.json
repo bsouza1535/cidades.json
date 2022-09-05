@@ -181,9 +181,9 @@
   },
   {
     "key" : "SP",
-    "name" : "São Paulo Capital",
-    "latitude" : -23.5329,
-    "longitude" : -46.6395
+    "name" : "AV_FL_SP",
+    "latitude" : -23.50408791152946,
+    "longitude" : -46.82529372915406
   },
   {
     "key" : "PI",
